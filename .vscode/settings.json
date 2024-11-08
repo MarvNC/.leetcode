@@ -1,3 +1,5 @@
 {
-  "github.copilot.inlineSuggest.enable": false
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "github.copilot.editor.enableAutoCompletions": false
 }
